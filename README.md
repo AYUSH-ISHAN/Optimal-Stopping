@@ -9,3 +9,5 @@ Below are the LSM Equations.<br>
 1. Languerre Gaussian Research - All results and experiments stored in Languerre Gaussian Research.pdf. It takes <a href ="https://en.wikipedia.org/wiki/Laguerre_polynomials">Languerre Polynomials</a> as the basis function.
 2. Simple Gaussian Research - All results and experiments stored in Simple Gaussian_research.pdf. It takes Simple Polynomials as the basis function.
 
+# Additional work 
+In the stock_model.py, I have kept a option where one can add noises to the stock prices by keeping noise=True. <br>
