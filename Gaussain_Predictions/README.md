@@ -1,1 +1,0 @@
-# wrtie the Gaussian things
