@@ -10,4 +10,4 @@ Below are the LSM Equations.<br>
 2. Simple Gaussian Research - All results and experiments stored in Simple Gaussian_research.pdf. It takes Simple Polynomials as the basis function.
 
 # Additional work 
-In the stock_model.py, I have kept a option where one can add noises to the stock prices by keeping noise=True. <br>
+In the stock_model.py, I have kept a option where one can add noises to the stock prices by keeping noise=True. Keeping logstaff=True, we can form exactly the same array as shown in Longstaff and Swartz paper. <br>
