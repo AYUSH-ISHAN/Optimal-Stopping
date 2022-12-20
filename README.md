@@ -1,9 +1,8 @@
 # Optimal-Stopping
 Here, I have done experiments with LSM (Least Square Monte- Carlo Approach) of solving the Optimal Stopping Problems.<br>
 Below are the LSM Equations.<br>
-<img src = "https://github.com/AYUSH-ISHAN/Optimal-Stopping/blob/main/assets/IMG_20221220_104206.jpg" align="center" height = "100" width = "400"/><br>
-<img src = "./assets/2.png" align="center" height = "100" width = "400"/><br>
-<img src = "./assets/3.png" align="center" height = "100" width = "400"/><br>
+<img src = "./assets/IMG_20221220_104206.jpg" align="center" height = "100" width = "400"/><br>
+<img src = "./assets/IMG_20221220_104328.jpg" align="center" height = "100" width = "400"/><br>
 
 # Results 
 1. Languerre Gaussian Research - All results and experiments stored in Languerre Gaussian Research.pdf. It takes <a href ="https://en.wikipedia.org/wiki/Laguerre_polynomials">Languerre Polynomials</a> as the basis function.
