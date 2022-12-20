@@ -1,7 +1,7 @@
 # Optimal-Stopping
 Here, I have done experiments with LSM (Least Square Monte- Carlo Approach) of solving the Optimal Stopping Problems.<br>
 Below are the LSM Equations.<br>
-<img src = "./assets/1.png" align="center" height = "100" width = "400"/><br>
+<img src = "https://github.com/AYUSH-ISHAN/Optimal-Stopping/blob/main/assets/IMG_20221220_104206.jpg" align="center" height = "100" width = "400"/><br>
 <img src = "./assets/2.png" align="center" height = "100" width = "400"/><br>
 <img src = "./assets/3.png" align="center" height = "100" width = "400"/><br>
 
